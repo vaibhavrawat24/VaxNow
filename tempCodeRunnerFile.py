@@ -1,0 +1,2 @@
+## DEFAULT values
+PINCODE = '110096'
