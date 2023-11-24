@@ -2,6 +2,11 @@
 
 VaxNow is a user-friendly vaccine availability checker tool with a Tkinter-based graphical user interface (GUI). It is designed to assist users in finding real-time information on vaccine availability in their desired location. The project aligns with Software Development Life Cycle (SDLC) methodologies and emphasizes unit testing to ensure the reliability of data. VaxNow utilizes the Cowin API to retrieve up-to-date vaccine data, enabling users to search by location, time, and more. Additionally, best practices for software development, including version control with Git public API integration, are followed to facilitate collaborative development.
 
+<p>
+   <img src="https://github.com/vaibhavrawat24/VaxNow/assets/100408695/57cd36aa-660c-46d4-b952-b342f422b44b" width="300" />
+   <img src="https://github.com/vaibhavrawat24/VaxNow/assets/100408695/ef1b7646-f1c4-4cfe-9cca-1437a5b6dfd2" width="300" /> 
+</p>
+
 ## Features
 
 - **Tkinter GUI**: A user-friendly graphical interface for a smooth user experience.
